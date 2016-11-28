@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B3FD4CB4F38654BACCE2EF0D0E63AF659B18C8FB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5D6EC6D464DBCA7EDD287A84F4B77C107DE02B2C" : 9223372036854775807,
+    "B3FD4CB4F38654BACCE2EF0D0E63AF659B18C8FB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9F095FC-776F-4914-83E1-48A408F342AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5D6EC6D464DBCA7EDD287A84F4B77C107DE02B2C" : "iOSClassWeek3\/",
+    "B3FD4CB4F38654BACCE2EF0D0E63AF659B18C8FB" : "IOS-Apps\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GroceryApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IOSClassGroceryApp\/GroceryApp\/GroceryApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ericdowney\/iOSClassWeek3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D6EC6D464DBCA7EDD287A84F4B77C107DE02B2C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AScarberry\/IOS-Apps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3FD4CB4F38654BACCE2EF0D0E63AF659B18C8FB"
+    }
+  ]
+}
